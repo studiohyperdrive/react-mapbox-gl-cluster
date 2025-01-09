@@ -20,7 +20,7 @@
     "mapbox-gl": "^3.6.0",
     "prop-types": "^15.7.2",
     "react-mapbox-gl": "^5.1.1",
-    "react-mapbox-gl-spiderifier": "^1.12.0",
+    "react-mapbox-gl-spiderifier": "github:studiohyperdrive/react-mapbox-gl-spiderifier",
     "supercluster": "^8.0.1"
   },
   "devDependencies": {
